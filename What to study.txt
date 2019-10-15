@@ -1,0 +1,17 @@
+SCALA:
+      Mathematical Functions
+      Matrix operations
+      Eigen values
+      Eigen vectors
+      RMSD
+      
+SPARK:
+      Core
+      Basics of Scala(not too deep)
+      RDD :
+            Transformations
+            Actions
+            Lazy Evaluation
+      Map Reduce
+            
+       
